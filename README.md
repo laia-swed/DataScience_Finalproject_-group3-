@@ -1,6 +1,7 @@
 DataScience_Finalproject
 
 About me:
+
 Industrial Engineering and Management Practical Engineer (Logistics Specialization) | Portfolio Manager | Data Analyst
 Over 5 years of experience working in manufacturing plants, specializing in process improvement, optimization, and information management.
 Skilled in Python, Google Colab, and data visualization.
