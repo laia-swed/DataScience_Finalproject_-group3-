@@ -1,7 +1,7 @@
  DataScience_Finalproject
 
 Project Title
-Work-Life Balance Prediction using Machine Learning
+"Work-Life Balance Prediction using Machine Learning"
 
 Group Members
 - Laia swed
