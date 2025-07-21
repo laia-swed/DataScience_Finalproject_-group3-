@@ -1,6 +1,7 @@
  DataScience_Finalproject
 
-Project Title\\
+Project Title:
+
 "Work-Life Balance Prediction using Machine Learning"
 
 Group Members
@@ -8,6 +9,7 @@ Group Members
 - Morjan
 - Tamer fawwaz
 
-Project Summary\\
+Project Summary:
+
 This project analyzes lifestyle factors that affect work-life balance using data science and machine learning techniques, We applied regression and classification models to predict balance scores based on the dataset.
 
